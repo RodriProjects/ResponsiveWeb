@@ -129,6 +129,7 @@ font-size: 14px;
 }
 
 
+
 /* OPINIONES */
 
 .contenedor-opiniones{
@@ -227,5 +228,14 @@ font-size: 14px;
         text-align: right;
         background-color: black;
         color:white
+    }
+
+    .titulo_ofrecemos{
+        font-size:24px;
+        color:red;
+    }
+
+    .contenedor-ofrecemos p{
+        font-size: 12px;
     }
 }
